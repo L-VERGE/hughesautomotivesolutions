@@ -1,0 +1,60 @@
+.no-underline a {
+    text-decoration : none;
+}
+
+header {
+    background-color : rgb(8, 14, 17, 0.5);
+    color : white;
+}
+
+footer {
+    background-color : rgb(8, 14, 17, 0.5);
+    color : white;
+}
+
+.wp-block-jetpack-slideshow {
+    background-color : rgb(8, 14, 17, 0.8);
+}
+
+img {
+    border-radius : 5%;
+    padding-top : 20px;
+}
+
+h3 {
+    background-color : rgb(18, 14, 17, 0.35);
+    color : white;
+    padding : 20px;
+}
+
+footer div .wp-block-group p {
+    display : none;
+}
+
+div.wp-block-jetpack-contact-form {
+    background-color : rgb(8, 14, 17, 0.8);
+    padding : 30px;
+    color : white;
+    border-radius : 20px;
+}
+
+div.contact-form-submission {
+    background-color : rgb(8, 14, 17, 0.8);
+    padding : 30px;
+    color : white;
+    border-radius : 20px;
+}
+
+p.go-back-message a {
+    color : white !important ;
+    font-size : 1.5rem;
+}
+
+div.wp-block-jetpack-contact-form input[type="text"], 
+form input[type="email"], form input[type="tel"], 
+div.wp-block-jetpack-contact-form textarea {
+    background-color : rgb(18, 14, 17, 0.5);
+    color : white !important ;
+    border : none;
+    border-radius : 10px;
+}
