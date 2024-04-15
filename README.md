@@ -1,8 +1,8 @@
 # hughesautomotivesolutinos.ca
-Gabe Godfrey - W0402654
+Gabe Godfrey - W0402654\
 John Payne - W0474679\
 Thomas Kowalczyk - W0471712\
-Logan Verge - W0463129\
+Logan Verge - W0463129
 
 ## Capstone Project
 Hughes Automotive Solutions is a small autobody repair shop looking to expand connections and increase efficiency with client communications.​\
